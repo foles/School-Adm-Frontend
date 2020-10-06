@@ -1,0 +1,9 @@
+.card {
+    width: 18rem;
+    margin: 7px;
+}
+
+.cardS:hover {
+    width: 18.3rem !important;
+    background-color: aquamarine !important;
+}

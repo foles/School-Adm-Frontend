@@ -1,0 +1,17 @@
+.card-profile {
+    width: 15rem;
+    height: 10rem;
+    margin: 7px;
+}
+
+.card-profile-student {
+    height: 15rem;
+}
+
+.card:hover {
+    width: 15.3rem;
+}
+
+h3 {
+    color: white;
+}
